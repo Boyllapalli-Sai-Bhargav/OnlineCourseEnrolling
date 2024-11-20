@@ -1,0 +1,1966 @@
+{
+  "courses": [
+    {
+      "Org_ID": "ORG001",
+      "CourseID": "C001",
+      "CourseImg": "/images/html.jpeg",
+      "CourseName": "Introduction to HTML",
+      "CourseShortName": "Html Course",
+      "CourseCaption": "Learn the fundamentals of html programming.",
+      "CourseCategory": "Programming",
+      "CourseType": "Online",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 6000",
+      "CourseCreatedBy": "John Doe",
+      "CourseLevel": "Beginner",
+      "id": "a568"
+    },
+    {
+      "Org_ID": "ORG002",
+      "CourseID": "C002",
+      "CourseImg": "/images/css.png",
+      "CourseName": "Advanced CSS",
+      "CourseShortName": "CSS Advanced",
+      "CourseCaption": "Master advanced CSS styling concepts.",
+      "CourseCategory": "Web Development",
+      "CourseType": "Online",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 4000",
+      "CourseCreatedBy": "Jane Smith",
+      "CourseLevel": "Intermediate",
+      "id": "4a02"
+    },
+    {
+      "Org_ID": "ORG003",
+      "CourseID": "C003",
+      "CourseImg": "/images/js.webp",
+      "CourseName": "JS Advanced",
+      "CourseShortName": "JS Beginers",
+      "CourseCaption": "Java Script programming for data analysis.",
+      "CourseCategory": "Funtinaliity",
+      "CourseType": "Online",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 5400",
+      "CourseCreatedBy": "Alex Johnson",
+      "CourseLevel": "Expert",
+      "id": "cd00"
+    },
+    {
+      "Org_ID": "ORG004",
+      "CourseID": "C004",
+      "CourseImg": "/images/java.jpeg",
+      "CourseName": "Java Basics",
+      "CourseShortName": "Java",
+      "CourseCaption": "Become a full-stack Java developer.",
+      "CourseCategory": "Devoloping",
+      "CourseType": "Offline",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 9999",
+      "CourseCreatedBy": "Emma Brown",
+      "CourseLevel": "Advanced",
+      "id": "9f10"
+    },
+    {
+      "Org_ID": "ORG005",
+      "CourseID": "C005",
+      "CourseImg": "/images/sql.png",
+      "CourseName": "Structured Query Language",
+      "CourseShortName": "SQL DataBase",
+      "CourseCaption": "SQL for accessing databases.",
+      "CourseCategory": "Data Base",
+      "CourseType": "Online",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 9000",
+      "CourseCreatedBy": "Mike Lee",
+      "CourseLevel": "Intermediate",
+      "id": "2777"
+    },
+    {
+      "Org_ID": "ORG006",
+      "CourseID": "C006",
+      "CourseImg": "/images/bootstrap.jpeg",
+      "CourseName": "Bootstrap",
+      "CourseShortName": "Framing 101",
+      "CourseCaption": "Styling fundamentals.",
+      "CourseCategory": "UI",
+      "CourseType": "Online",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 1000",
+      "CourseCreatedBy": "Sarah Green",
+      "CourseLevel": "Beginner",
+      "id": "8e8a"
+    },
+    {
+      "Org_ID": "ORG007",
+      "CourseID": "C007",
+      "CourseImg": "/images/spring.png",
+      "CourseName": "Spring Frame work",
+      "CourseShortName": "SQL DA",
+      "CourseCaption": "Spring basics for Framework.",
+      "CourseCategory": "Data Science",
+      "CourseType": "Online",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 3600",
+      "CourseCreatedBy": "David White",
+      "CourseLevel": "Beginner",
+      "id": "af51"
+    },
+    {
+      "Org_ID": "ORG008",
+      "CourseID": "C008",
+      "CourseImg": "/images/react.png",
+      "CourseName": "React JS",
+      "CourseShortName": "React JS",
+      "CourseCaption": "Single webppage",
+      "CourseCategory": "Programing",
+      "CourseType": "Offline",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 8900",
+      "CourseCreatedBy": "Michael Black",
+      "CourseLevel": "Intermediate",
+      "id": "94ab"
+    },
+    {
+      "Org_ID": "ORG009",
+      "CourseID": "C009",
+      "CourseImg": "/images/springboot.png",
+      "CourseName": "SpringBoot Framework",
+      "CourseShortName": "SpringBoot Framework",
+      "CourseCaption": "Fundamentals of SpringBoot Framework.",
+      "CourseCategory": "ramework",
+      "CourseType": "Online",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 7800",
+      "CourseCreatedBy": "Jessica King",
+      "CourseLevel": "Beginner",
+      "id": "5b29"
+    },
+    {
+      "Org_ID": "ORG010",
+      "CourseID": "C010",
+      "CourseImg": "/images/django.jpeg",
+      "CourseName": "Python Framework",
+      "CourseShortName": "Framming",
+      "CourseCaption": "An introduction to Django technologies.",
+      "CourseCategory": "Data Science",
+      "CourseType": "Online",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 8975",
+      "CourseCreatedBy": "Nancy Clark",
+      "CourseLevel": "Expert",
+      "id": "3ebd"
+    }
+  ],
+  "courseList": [
+    {
+      "CourseID": "C001",
+      "courseSeqNo": "seq001",
+      "CourseCaption": "Learn the fundamentals of html programming.",
+      "courseDesc": "HTML is the fundamental markup language used to structure web pages, defining elements like headings, paragraphs, and images through tags.",
+      "id": "3a57"
+    },
+    {
+      "CourseID": "C001",
+      "courseSeqNo": "seq002",
+      "CourseCaption": "Learn the fundamentals of html programming.",
+      "courseDesc": "HTML is the building block of all websites and is often combined with CSS and JavaScript to create styled and interactive web pages.",
+      "id": "c378"
+    },
+    {
+      "CourseID": "C001",
+      "courseSeqNo": "seq003",
+      "CourseCaption": "Learn the fundamentals of html programming.",
+      "courseDesc": "HTML uses a system of tags and attributes to mark different types of content, helping browsers interpret how to display the text, images, and links on the page.",
+      "id": "185a"
+    },
+    {
+      "CourseID": "C002",
+      "courseSeqNo": "seq004",
+      "CourseCaption": "Master advanced CSS styling concepts.",
+      "courseDesc": "CSS (Cascading Style Sheets) is a stylesheet language used to describe the presentation of a document written in HTML or XML, allowing for the separation of content and design.",
+      "id": "94fc"
+    },
+    {
+      "CourseID": "C002",
+      "courseSeqNo": "seq005",
+      "CourseCaption": "Master advanced CSS styling concepts.",
+      "courseDesc": "Lab Exercises",
+      "id": "674a"
+    },
+    {
+      "CourseID": "C003",
+      "courseSeqNo": "seq006",
+      "CourseCaption": "Java Script programming for data analysis.",
+      "courseDesc": "JavaScript is a versatile programming language primarily used for creating interactive and dynamic content on websites.",
+      "id": "d9db"
+    },
+    {
+      "CourseID": "C003",
+      "courseSeqNo": "seq007",
+      "CourseCaption": "Java Script programming for data analysis.",
+      "courseDesc": "JavaScript typically runs directly in the user's browser, allowing for faster interactions without needing to constantly communicate with the server, although it can also be used server-side with environments like Node.js.",
+      "id": "c52a"
+    },
+    {
+      "CourseID": "C004",
+      "courseSeqNo": "seq008",
+      "CourseCaption": "Become a full-stack Java developer.",
+      "courseDesc": "Java is a versatile, object-oriented programming language widely used for building cross-platform applications, known for its portability and robust security features.",
+      "id": "416d"
+    },
+    {
+      "CourseID": "C004",
+      "courseSeqNo": "seq009",
+      "CourseCaption": "Become a full-stack Java developer.",
+      "courseDesc": "Java uses principles like inheritance, encapsulation, and polymorphism, making it easier to model real-world problems.",
+      "id": "00ab"
+    },
+    {
+      "CourseID": "C004",
+      "courseSeqNo": "seq010",
+      "CourseCaption": "Become a full-stack Java developer.",
+      "courseDesc": "Java supports multithreaded programming, allowing multiple threads to run concurrently, which is useful for modern applications requiring high performance.",
+      "id": "ec80"
+    },
+    {
+      "CourseID": "C004",
+      "courseSeqNo": "seq011",
+      "CourseCaption": "Become a full-stack Java developer.",
+      "courseDesc": "With a large and active community, Java developers have access to extensive resources, libraries, and frameworks.",
+      "id": "38c2"
+    },
+    {
+      "CourseID": "C005",
+      "courseSeqNo": "seq012",
+      "CourseCaption": "SQL is a standard language for accessing and manipulating databases.",
+      "courseDesc": "SQL (Structured Query Language) is a standardized programming language used to manage and manipulate relational databases",
+      "id": "0196"
+    },
+    {
+      "CourseID": "C005",
+      "courseSeqNo": "seq013",
+      "CourseCaption": "SQL is a standard language for accessing and manipulating databases.",
+      "courseDesc": " a programming language for storing and processing information in a relational database.",
+      "id": "0cff"
+    },
+    {
+      "CourseID": "C006",
+      "courseSeqNo": "seq014",
+      "CourseCaption": "Styling fundamentals.",
+      "courseDesc": "Bootstrap is a popular front-end framework that simplifies web development by providing pre-designed components and responsive grid layouts for building mobile-first websites quickly.",
+      "id": "7f05"
+    },
+    {
+      "CourseID": "C007",
+      "courseSeqNo": "seq015",
+      "CourseCaption": "Spring basics for Framework.",
+      "courseDesc": "The Spring Framework is a powerful and flexible framework for building Java applications, providing comprehensive infrastructure support, dependency injection, and aspect-oriented programming.",
+      "id": "4cc3"
+    },
+    {
+      "CourseID": "C007",
+      "courseSeqNo": "seq016",
+      "CourseCaption": "Spring basics for Framework.",
+      "courseDesc": "an open-source Java application framework that helps developers build enterprise-level applications",
+      "id": "108c"
+    },
+    {
+      "CourseID": "C008",
+      "courseSeqNo": "seq017",
+      "CourseCaption": "Single web page",
+      "courseDesc": "React is a JavaScript library for building user interfaces, particularly single-page applications, by creating reusable UI components.",
+      "id": "4e1b"
+    },
+    {
+      "CourseID": "C008",
+      "courseSeqNo": "seq018",
+      "CourseCaption": "Single web page",
+      "courseDesc": "React, also known as ReactJS, is a popular and powerful JavaScript library used for building dynamic and interactive user interfaces, primarily for single-page applications (SPAs).",
+      "id": "0979"
+    },
+    {
+      "CourseID": "C009",
+      "courseSeqNo": "seq019",
+      "CourseCaption": "Fundamentals of SpringBoot Framework.",
+      "courseDesc": "The Spring Framework is a powerful and flexible framework for building Java applications, providing comprehensive infrastructure support, dependency injection, and aspect-oriented programming.",
+      "id": "5e55"
+    },
+    {
+      "CourseID": "C009",
+      "courseSeqNo": "seq020",
+      "CourseCaption": "Fundamentals of SpringBoot Framework.",
+      "courseDesc": "an open-source Java web framework that helps developers build web applications and microservices faster and easier",
+      "id": "6e29"
+    },
+    {
+      "CourseID": "C010",
+      "courseSeqNo": "seq021",
+      "CourseCaption": "An introduction to Django technologies.",
+      "courseDesc": "Django is a high-level Python web framework that enables rapid development of secure and maintainable web applications.",
+      "id": "600c"
+    },
+    {
+      "CourseID": "C010",
+      "courseSeqNo": "seq022",
+      "CourseCaption": "An introduction to Django technologies.",
+      "courseDesc": "a free, open-source web framework that helps developers build web applications in Python.",
+      "id": "5d6a"
+    },
+    {
+      "CourseID": "C010",
+      "courseSeqNo": "seq023",
+      "CourseCaption": "An introduction to Django technologies.",
+      "courseDesc": "It's a good choice for building web applications that have complex features, handle a large number of users, or involve cross-site scripting. ",
+      "id": "3d66"
+    }
+  ],
+  "lernings": [
+    {
+      "id": "0001",
+      "courseID": "C001",
+      "lrn_sq_no": "001",
+      "Desc": "HTML (HyperText Markup Language) is the standard language used to create and structure content on the web."
+    },
+    {
+      "id": "0002",
+      "courseID": "C001",
+      "lrn_sq_no": "002",
+      "Desc": "HTML documents are made up of elements, which are denoted by tags, such as <div>, <p>, <h1>, etc."
+    },
+    {
+      "id": "0003",
+      "courseID": "C001",
+      "lrn_sq_no": "003",
+      "Desc": "An HTML document is structured with a <head> section (for metadata, styles, and scripts) and a <body> section (for visible content)."
+    },
+    {
+      "id": "0004",
+      "courseID": "C001",
+      "lrn_sq_no": "004",
+      "Desc": "HTML elements can have attributes that provide additional information, such as class, id, href, and src."
+    },
+    {
+      "id": "0005",
+      "courseID": "C002",
+      "lrn_sq_no": "001",
+      "Desc": "The .container class creates a flex container with vertical alignment and centers the content."
+    },
+    {
+      "id": "0006",
+      "courseID": "C002",
+      "lrn_sq_no": "002",
+      "Desc": "Applies a black border, rounded corners, and padding for visual structure."
+    },
+    {
+      "id": "0007",
+      "courseID": "C002",
+      "lrn_sq_no": "003",
+      "Desc": "A subtle box-shadow effect is added to create depth."
+    },
+    {
+      "id": "0008",
+      "courseID": "C002",
+      "lrn_sq_no": "004",
+      "Desc": "Width is fixed to 400px with centered alignment and margin-top of 100px."
+    },
+    {
+      "id": "0009",
+      "courseID": "C002",
+      "lrn_sq_no": "005",
+      "Desc": "The .form class organizes input fields vertically using flexbox."
+    },
+    {
+      "id": "0010",
+      "courseID": "C003",
+      "lrn_sq_no": "001",
+      "Desc": "JavaScript is a high-level, interpreted programming language primarily used for creating dynamic and interactive content on the web"
+    },
+    {
+      "id": "0011",
+      "courseID": "C003",
+      "lrn_sq_no": "002",
+      "Desc": "JavaScript is a high-level, interpreted programming language primarily used for creating dynamic and interactive content on the web"
+    },
+    {
+      "id": "0012",
+      "courseID": "C003",
+      "lrn_sq_no": "003",
+      "Desc": "It is commonly used for client-side scripting, meaning that the code is executed directly in the user's browser"
+    },
+    {
+      "id": "0013",
+      "courseID": "C004",
+      "lrn_sq_no": "001",
+      "Desc": "inheritance, polymorphism, encapsulation, and abstraction, allowing for better code reusability and maintainability."
+    },
+    {
+      "id": "0014",
+      "courseID": "C004",
+      "lrn_sq_no": "002",
+      "Desc": "Java code is compiled into bytecode, which can run on any device or operating system that has a Java Virtual Machine (JVM)"
+    },
+    {
+      "id": "0015",
+      "courseID": "C004",
+      "lrn_sq_no": "003",
+      "Desc": "Java offers strong memory management, exception handling, and garbage collection"
+    },
+    {
+      "id": "0016",
+      "courseID": "C004",
+      "lrn_sq_no": "004",
+      "Desc": "Java provides a comprehensive set of libraries and APIs for tasks like networking, database connectivity, GUI development, and more."
+    },
+    {
+      "id": "0017",
+      "courseID": "C005",
+      "lrn_sq_no": "001",
+      "Desc": "SQL is used for defining and managing databases, tables, and relationships. It includes commands like CREATE, ALTER, and DROP to create, modify, or delete database structures."
+    },
+    {
+      "id": "0018",
+      "courseID": "C005",
+      "lrn_sq_no": "002",
+      "Desc": "SQL is powerful for querying data using SELECT statements with filters (WHERE), sorting (ORDER BY), and aggregation (GROUP BY, HAVING)."
+    },
+    {
+      "id": "0019",
+      "courseID": "C005",
+      "lrn_sq_no": "003",
+      "Desc": " SQL enforces data integrity using constraints like PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL, and CHECK to ensure the accuracy and consistency of the data."
+    },
+    {
+      "id": "0020",
+      "courseID": "C006",
+      "lrn_sq_no": "001",
+      "Desc": "Bootstrap is a front-end framework that provides responsive design out-of-the-box, ensuring that web pages look good on any device or screen size."
+    },
+    {
+      "id": "0021",
+      "courseID": "C006",
+      "lrn_sq_no": "002",
+      "Desc": "It includes a wide variety of reusable UI components like buttons, forms, navigation bars, modals, carousels, and more."
+    },
+    {
+      "id": "0022",
+      "courseID": "C006",
+      "lrn_sq_no": "003",
+      "Desc": "Bootstrap uses a 12-column flexible grid system, allowing for easy layout customization and a responsive structure."
+    },
+    {
+      "id": "0023",
+      "courseID": "C007",
+      "lrn_sq_no": "001",
+      "Desc": "Spring provides an IoC container, which helps in managing Java objects by handling their lifecycle, including object creation, initialization, and dependency injection."
+    },
+    {
+      "id": "0024",
+      "courseID": "C007",
+      "lrn_sq_no": "002",
+      "Desc": "Spring promotes loose coupling between components through DI, where objects are injected into other objects, reducing the need for hard-coded dependencies."
+    },
+    {
+      "id": "0025",
+      "courseID": "C008",
+      "lrn_sq_no": "001",
+      "Desc": "React is built around reusable components, which helps in breaking down complex UI into smaller, manageable pieces."
+    },
+    {
+      "id": "0026",
+      "courseID": "C008",
+      "lrn_sq_no": "002",
+      "Desc": "React uses a declarative approach, making it easier to design interactive UIs by specifying how the UI should look based on the current state."
+    },
+    {
+      "id": "0027",
+      "courseID": "C008",
+      "lrn_sq_no": "003",
+      "Desc": "React maintains a virtual DOM to optimize performance. It updates only the changed parts of the real DOM rather than re-rendering the entire UI."
+    },
+    {
+      "id": "0028",
+      "courseID": "C008",
+      "lrn_sq_no": "004",
+      "Desc": "React follows a unidirectional data flow, where data flows from parent to child components, ensuring predictable and easy-to-trace application behavior."
+    },
+    {
+      "id": "0029",
+      "courseID": "C008",
+      "lrn_sq_no": "005",
+      "Desc": "React components use state to manage data that changes over time and props to pass data from parent to child components."
+    },
+    {
+      "id": "0030",
+      "courseID": "C009",
+      "lrn_sq_no": "001",
+      "Desc": "Spring Boot simplifies the setup and development of Spring applications, allowing developers to build production-ready applications quickly with minimal configuration."
+    },
+    {
+      "id": "0031",
+      "courseID": "C009",
+      "lrn_sq_no": "002",
+      "Desc": "It enables the creation of standalone Spring applications that can run independently without needing an external web server (e.g., Tomcat, Jetty)."
+    },
+    {
+      "id": "0032",
+      "courseID": "C009",
+      "lrn_sq_no": "003",
+      "Desc": "Spring Boot automatically configures components based on the project's dependencies, reducing manual setup."
+    },
+    {
+      "id": "0033",
+      "courseID": "C009",
+      "lrn_sq_no": "004",
+      "Desc": "Supports embedded servers like Tomcat, Jetty, and Undertow, eliminating the need for external server setup."
+    },
+    {
+      "id": "0034",
+      "courseID": "C010",
+      "lrn_sq_no": "001",
+      "Desc": "Django is a free and open-source web framework built in Python, designed to simplify the development of dynamic websites and applications."
+    },
+    {
+      "id": "0035",
+      "courseID": "C010",
+      "lrn_sq_no": "002",
+      "Desc": "It follows the Model-Template-View (MTV) architectural pattern, which is similar to the MVC pattern."
+    },
+    {
+      "id": "0036",
+      "courseID": "C010",
+      "lrn_sq_no": "003",
+      "Desc": "It separates the data model (Model), presentation (Template), and the user interface logic (View)."
+    },
+    {
+      "id": "0037",
+      "courseID": "C010",
+      "lrn_sq_no": "004",
+      "Desc": "Django encourages rapid development by providing a rich set of built-in features like an admin interface."
+    },
+    {
+      "id": "0038",
+      "courseID": "C010",
+      "lrn_sq_no": "005",
+      "Desc": "Django comes with built-in protection against many common security threats, including SQL injection, cross-site scripting (XSS), cross-site request forgery (CSRF), and clickjacking."
+    }
+  ],
+  "courseDescription": [
+    {
+      "courseID": "C001",
+      "des_sq_no": "001",
+      "courseDesc": "Introduction to HTML: Learn the basics of HTML, including its syntax, structure, and fundamental tags to create simple web pages.",
+      "id": "4c3b"
+    },
+    {
+      "courseID": "C001",
+      "des_sq_no": "002",
+      "courseDesc": "HTML Elements and Attributes: Understand different HTML elements, attributes, and their uses to create well-structured and accessible web content.",
+      "id": "421b"
+    },
+    {
+      "courseID": "C001",
+      "des_sq_no": "003",
+      "courseDesc": "Advanced HTML Concepts: Explore advanced topics like semantic HTML, forms, multimedia elements, and best practices for responsive design.",
+      "id": "6f35"
+    },
+    {
+      "courseID": "C002",
+      "des_sq_no": "001",
+      "courseDesc": "Introduction to CSS: Learn the basics of CSS, including how to style HTML elements, apply colors, fonts, and spacing to create visually appealing web pages.",
+      "id": "7bed"
+    },
+    {
+      "courseID": "C002",
+      "des_sq_no": "002",
+      "courseDesc": "CSS Layouts and Positioning: Discover CSS layout techniques such as Flexbox and Grid, along with positioning methods to create responsive and structured page layouts.",
+      "id": "f5e0"
+    },
+    {
+      "courseID": "C002",
+      "des_sq_no": "003",
+      "courseDesc": "Advanced CSS Techniques: Explore advanced CSS features like animations, transitions, pseudo-classes, and media queries for dynamic and interactive designs.",
+      "id": "3196"
+    },
+    {
+      "courseID": "C003",
+      "des_sq_no": "001",
+      "courseDesc": "Introduction to JavaScript: Learn JavaScript basics, including syntax, data types, and variables, to add interactivity to web pages.",
+      "id": "0151"
+    },
+    {
+      "courseID": "C003",
+      "des_sq_no": "002",
+      "courseDesc": "JavaScript Functions and Events: Understand how to create and use functions, handle events, and implement basic interactivity in web applications.",
+      "id": "93de"
+    },
+    {
+      "courseID": "C003",
+      "des_sq_no": "003",
+      "courseDesc": "JavaScript DOM Manipulation: Explore the Document Object Model (DOM) and learn how to manipulate HTML elements dynamically using JavaScript.",
+      "id": "cb14"
+    },
+    {
+      "courseID": "C003",
+      "des_sq_no": "004",
+      "courseDesc": "Advanced JavaScript Concepts: Dive into advanced topics such as asynchronous JavaScript, promises, and APIs to create dynamic, data-driven applications.",
+      "id": "9f24"
+    },
+    {
+      "courseID": "C004",
+      "des_sq_no": "001",
+      "courseDesc": "Introduction to Java: Learn the basics of Java, including syntax, data types, and operators, to set a foundation for object-oriented programming.",
+      "id": "d18b"
+    },
+    {
+      "courseID": "C004",
+      "des_sq_no": "002",
+      "courseDesc": "Java Classes and Objects: Understand object-oriented principles, create classes and objects, and explore encapsulation, inheritance, and polymorphism.",
+      "id": "f1ca"
+    },
+    {
+      "courseID": "C004",
+      "des_sq_no": "003",
+      "courseDesc": "Java Collections Framework: Dive into Java collections like lists, sets, and maps, and learn how to effectively manage groups of objects.",
+      "id": "95e7"
+    },
+    {
+      "courseID": "C004",
+      "des_sq_no": "004",
+      "courseDesc": "Exception Handling in Java: Learn to handle errors gracefully using try-catch blocks, custom exceptions, and best practices for robust applications.",
+      "id": "c7f6"
+    },
+    {
+      "courseID": "C004",
+      "des_sq_no": "005",
+      "courseDesc": "Advanced Java Concepts: Explore advanced topics such as multithreading, lambda expressions, streams, and file I/O for high-performance applications.",
+      "id": "f422"
+    },
+    {
+      "courseID": "C005",
+      "des_sq_no": "001",
+      "courseDesc": "Introduction to SQL: Learn the basics of SQL, including how to create, read, update, and delete (CRUD) data in relational databases.",
+      "id": "9cc4"
+    },
+    {
+      "courseID": "C005",
+      "des_sq_no": "002",
+      "courseDesc": "SQL Queries and Filtering: Understand how to use SELECT statements, apply WHERE clauses, and filter data effectively using SQL queries.",
+      "id": "44bb"
+    },
+    {
+      "courseID": "C005",
+      "des_sq_no": "003",
+      "courseDesc": "Joins and Relationships in SQL: Explore different types of joins (INNER, LEFT, RIGHT, FULL) to retrieve related data across multiple tables.",
+      "id": "ba3f"
+    },
+    {
+      "courseID": "C006",
+      "des_sq_no": "001",
+      "courseDesc": "Introduction to Bootstrap: Learn the basics of Bootstrap, including how to use its grid system, responsive design features, and basic components to build responsive web layouts.",
+      "id": "6130"
+    },
+    {
+      "courseID": "C006",
+      "des_sq_no": "002",
+      "courseDesc": "Bootstrap Components and Utilities: Explore Bootstrap’s built-in components, such as buttons, forms, navigation bars, and utilities to style and enhance your web pages.",
+      "id": "ede6"
+    },
+    {
+      "courseID": "C007",
+      "des_sq_no": "001",
+      "courseDesc": "Introduction to Spring Framework: Learn the basics of the Spring Framework, its architecture, and its role in Java-based enterprise applications.",
+      "id": "9c74"
+    },
+    {
+      "courseID": "C007",
+      "des_sq_no": "002",
+      "courseDesc": "Dependency Injection and Inversion of Control: Understand key concepts in Spring, including dependency injection (DI) and inversion of control (IoC) to create flexible, loosely-coupled applications.",
+      "id": "6088"
+    },
+    {
+      "courseID": "C008",
+      "des_sq_no": "001",
+      "courseDesc": "Introduction to React: Learn the basics of React, including components, JSX syntax, and how to create reusable UI elements for web applications.",
+      "id": "7365"
+    },
+    {
+      "courseID": "C008",
+      "des_sq_no": "002",
+      "courseDesc": "State and Props in React: Understand how to manage data in React using state and props, enabling interactive and dynamic components.",
+      "id": "98dd"
+    },
+    {
+      "courseID": "C008",
+      "des_sq_no": "003",
+      "courseDesc": "React Lifecycle Methods and Hooks: Explore component lifecycle methods and the use of hooks for managing state and effects in functional components.",
+      "id": "cb9b"
+    },
+    {
+      "courseID": "C008",
+      "des_sq_no": "004",
+      "courseDesc": "Routing in React: Learn how to implement navigation using React Router, enabling multi-page layouts and seamless user experiences.",
+      "id": "2f5f"
+    },
+    {
+      "courseID": "C008",
+      "des_sq_no": "005",
+      "courseDesc": "Advanced React Concepts: Dive into advanced topics like context API, performance optimization, and higher-order components for scalable React applications.",
+      "id": "2eb6"
+    },
+    {
+      "courseID": "C009",
+      "des_sq_no": "001",
+      "courseDesc": "Introduction to Spring Boot: Learn the basics of Spring Boot, its benefits, and how it simplifies the development of stand-alone, production-ready Spring applications.",
+      "id": "8251"
+    },
+    {
+      "courseID": "C009",
+      "des_sq_no": "002",
+      "courseDesc": "Spring Boot Configuration and Properties: Explore configuration management, application properties, and profiles for different environments in Spring Boot.",
+      "id": "1182"
+    },
+    {
+      "courseID": "C009",
+      "des_sq_no": "003",
+      "courseDesc": "Building REST APIs with Spring Boot: Learn to create RESTful web services using Spring Boot, including endpoints, HTTP methods, and JSON responses.",
+      "id": "3933"
+    },
+    {
+      "courseID": "C009",
+      "des_sq_no": "004",
+      "courseDesc": "Data Persistence with Spring Boot and JPA: Understand how to integrate Spring Boot with JPA and Hibernate for database interactions, including CRUD operations and entity relationships.",
+      "id": "6eb9"
+    },
+    {
+      "courseID": "C010",
+      "des_sq_no": "001",
+      "courseDesc": "Introduction to Django: Learn the basics of the Django framework, its architecture, and how to set up a project to build dynamic web applications.",
+      "id": "f3e1"
+    },
+    {
+      "courseID": "C010",
+      "des_sq_no": "002",
+      "courseDesc": "Models and Databases in Django: Understand how to define models in Django and interact with databases using Django's ORM to manage data.",
+      "id": "6ad6"
+    },
+    {
+      "courseID": "C010",
+      "des_sq_no": "003",
+      "courseDesc": "Django Views and Templates: Learn how to create views and templates to handle HTTP requests and dynamically generate HTML pages.",
+      "id": "3dcd"
+    },
+    {
+      "courseID": "C010",
+      "des_sq_no": "004",
+      "courseDesc": "Django Forms and Validation: Explore how to create and process forms in Django, including validation, handling user input, and displaying feedback.",
+      "id": "d972"
+    },
+    {
+      "courseID": "C010",
+      "des_sq_no": "005",
+      "courseDesc": "Django Authentication and Authorization: Learn how to implement user authentication, authorization, and session management in Django applications.",
+      "id": "e5b9"
+    },
+    {
+      "courseID": "C010",
+      "des_sq_no": "006",
+      "courseDesc": "Deploying Django Applications: Understand the process of deploying Django applications to production, including setting up web servers, security considerations, and database management.",
+      "id": "e510"
+    }
+  ],
+  "section": [
+    {
+      "courseID": "C001",
+      "sectionID": "s001",
+      "sectionName": "HTMLBasics",
+      "id": "5eb2"
+    },
+    {
+      "courseID": "C001",
+      "sectionID": "s002",
+      "sectionName": "HTML Advanced",
+      "id": "aa5f"
+    },
+    {
+      "courseID": "C002",
+      "sectionID": "s003",
+      "sectionName": "CSS Introduction",
+      "id": "ba97"
+    },
+    {
+      "courseID": "C002",
+      "sectionID": "s004",
+      "sectionName": "CSS Advanced",
+      "id": "a359"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s005",
+      "sectionName": "Java script Basics",
+      "id": "835b"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s006",
+      "sectionName": "Java script Introduction",
+      "id": "deb4"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s007",
+      "sectionName": "Java script for Advanced",
+      "id": "7233"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s008",
+      "sectionName": "Java Basics",
+      "id": "a0d2"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s009",
+      "sectionName": "Java Introduction",
+      "id": "4f9c"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s010",
+      "sectionName": "Java for Brginners",
+      "id": "1377"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s011",
+      "sectionName": "Making Backend design as a Brginners",
+      "id": "692b"
+    },
+    {
+      "courseID": "C005",
+      "sectionID": "s012",
+      "sectionName": "SQL Basics",
+      "id": "4b84"
+    },
+    {
+      "courseID": "C005",
+      "sectionID": "s013",
+      "sectionName": "SQL Advanced",
+      "id": "cd66"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s014",
+      "sectionName": "Bootstrap Basics",
+      "id": "7551"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s015",
+      "sectionName": "Bootstrap Advanced",
+      "id": "ade4"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s016",
+      "sectionName": "Bootstrap Styling",
+      "id": "8e5a"
+    },
+    {
+      "courseID": "C007",
+      "sectionID": "s017",
+      "sectionName": "Spring Basics",
+      "id": "a822"
+    },
+    {
+      "courseID": "C007",
+      "sectionID": "s018",
+      "sectionName": "Spring Advanced",
+      "id": "9e0a"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s019",
+      "sectionName": "React Basics",
+      "id": "ae90"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s020",
+      "sectionName": "Introduction to React",
+      "id": "2a14"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s021",
+      "sectionName": "React Advanced",
+      "id": "97ca"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s022",
+      "sectionName": "Making Website",
+      "id": "5ba9"
+    },
+    {
+      "courseID": "C009",
+      "sectionID": "s023",
+      "sectionName": "Spring Boot Basics",
+      "id": "e735"
+    },
+    {
+      "courseID": "C009",
+      "sectionID": "s024",
+      "sectionName": "Spring Boot Advanced",
+      "id": "90bd"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s025",
+      "sectionName": "Django Basics",
+      "id": "9609"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s026",
+      "sectionName": "DJango introduction",
+      "id": "9c54"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s027",
+      "sectionName": "Django Basics",
+      "id": "d144"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s028",
+      "sectionName": "Django Advanced",
+      "id": "3d8b"
+    }
+  ],
+  "chapters": [
+    {
+      "courseID": "C001",
+      "sectionID": "s001",
+      "chapterID": "c001",
+      "chapterName": "HTML Introduction",
+      "chapterShortName": "HTML",
+      "id": "6749"
+    },
+    {
+      "courseID": "C001",
+      "sectionID": "s001",
+      "chapterID": "c002",
+      "chapterName": "HTML Tags",
+      "chapterShortName": "HTML",
+      "id": "a760"
+    },
+    {
+      "courseID": "C001",
+      "sectionID": "s002",
+      "chapterID": "c003",
+      "chapterName": "Accsessbility",
+      "chapterShortName": "HTML",
+      "id": "412f"
+    },
+    {
+      "courseID": "C001",
+      "sectionID": "s002",
+      "chapterID": "c004",
+      "chapterName": "Creating Webpages",
+      "chapterShortName": "HTML",
+      "id": "921c"
+    },
+    {
+      "courseID": "C002",
+      "sectionID": "s003",
+      "chapterID": "c005",
+      "chapterName": "CSS Margins",
+      "chapterShortName": "CSS",
+      "id": "5698"
+    },
+    {
+      "courseID": "C002",
+      "sectionID": "s003",
+      "chapterID": "c006",
+      "chapterName": "CSS padding",
+      "chapterShortName": "CSS",
+      "id": "9657"
+    },
+    {
+      "courseID": "C002",
+      "sectionID": "s004",
+      "chapterID": "c007",
+      "chapterName": "CSS Alignments",
+      "chapterShortName": "CSS",
+      "id": "9985"
+    },
+    {
+      "courseID": "C002",
+      "sectionID": "s004",
+      "chapterID": "c008",
+      "chapterName": "CSS Borders",
+      "chapterShortName": "CSS",
+      "id": "7f35"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s005",
+      "chapterID": "c009",
+      "chapterName": "Java Script Variables",
+      "chapterShortName": "Java Script",
+      "id": "5b34"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s005",
+      "chapterID": "c010",
+      "chapterName": "Java Script DataTypes",
+      "chapterShortName": "Java Script",
+      "id": "3725"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s005",
+      "chapterID": "c011",
+      "chapterName": "Java Script Conditionals",
+      "chapterShortName": "Java Script",
+      "id": "7557"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s006",
+      "chapterID": "c012",
+      "chapterName": "Java Script Control Structures",
+      "chapterShortName": "Java Script",
+      "id": "1ae2"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s006",
+      "chapterID": "c013",
+      "chapterName": "Java Script Functions",
+      "chapterShortName": "Java Script",
+      "id": "7b24"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s006",
+      "chapterID": "c014",
+      "chapterName": "Java Script Arrays",
+      "chapterShortName": "Java Script",
+      "id": "cbef"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s007",
+      "chapterID": "c015",
+      "chapterName": "Java Script Closures",
+      "chapterShortName": "Java Script",
+      "id": "1cbf"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s007",
+      "chapterID": "c016",
+      "chapterName": "Asynchronous Programming",
+      "chapterShortName": "Java Script",
+      "id": "bfdf"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s007",
+      "chapterID": "c017",
+      "chapterName": "Prototype and Prototypal..",
+      "chapterShortName": "Java Script",
+      "id": "aaca"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s007",
+      "chapterID": "c018",
+      "chapterName": "Event Loop and Concurrency Model",
+      "chapterShortName": "Java Script",
+      "id": "3563"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s008",
+      "chapterID": "c019",
+      "chapterName": "Java Variables and Data Types",
+      "chapterShortName": "Java",
+      "id": "897b"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s008",
+      "chapterID": "c020",
+      "chapterName": "Java Control Flow",
+      "chapterShortName": "Java",
+      "id": "9277"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s009",
+      "chapterID": "c021",
+      "chapterName": "Java Object-Oriented Basics",
+      "chapterShortName": "Java",
+      "id": "45f7"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s009",
+      "chapterID": "c022",
+      "chapterName": "Java Classes and Objects",
+      "chapterShortName": "Java",
+      "id": "4c53"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s010",
+      "chapterID": "c023",
+      "chapterName": "Java Exception Handling",
+      "chapterShortName": "Java",
+      "id": "a2d0"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s010",
+      "chapterID": "c024",
+      "chapterName": "Inheritance & Polymorphism",
+      "chapterShortName": "Java",
+      "id": "1049"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s011",
+      "chapterID": "c025",
+      "chapterName": "Java Abstration",
+      "chapterShortName": "Java",
+      "id": "4f98"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s011",
+      "chapterID": "c026",
+      "chapterName": "Java Multithreding",
+      "chapterShortName": "Java",
+      "id": "4665"
+    },
+    {
+      "courseID": "C005",
+      "sectionID": "s012",
+      "chapterID": "c027",
+      "chapterName": "SQL Select Statements",
+      "chapterShortName": "SQL",
+      "id": "fda5"
+    },
+    {
+      "courseID": "C005",
+      "sectionID": "s012",
+      "chapterID": "c028",
+      "chapterName": "SQL Filtering and Sorting",
+      "chapterShortName": "SQL",
+      "id": "7398"
+    },
+    {
+      "courseID": "C005",
+      "sectionID": "s013",
+      "chapterID": "c029",
+      "chapterName": "SQL Joins",
+      "chapterShortName": "SQL",
+      "id": "5baa"
+    },
+    {
+      "courseID": "C005",
+      "sectionID": "s013",
+      "chapterID": "c030",
+      "chapterName": "Aggregations & Grouping",
+      "chapterShortName": "SQL",
+      "id": "58c4"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s014",
+      "chapterID": "c031",
+      "chapterName": "Bootstrap Grid System",
+      "chapterShortName": "Bootstrap",
+      "id": "80ba"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s014",
+      "chapterID": "c032",
+      "chapterName": "Bootstrap Typography",
+      "chapterShortName": "Bootstrap",
+      "id": "21af"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s015",
+      "chapterID": "c033",
+      "chapterName": "Bootstrap Forms",
+      "chapterShortName": "Bootstrap",
+      "id": "2a48"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s016",
+      "chapterID": "c034",
+      "chapterName": "Bootstrap Utilities",
+      "chapterShortName": "Bootstrap",
+      "id": "5652"
+    },
+    {
+      "courseID": "C007",
+      "sectionID": "s017",
+      "chapterID": "c035",
+      "chapterName": "Spring MVC Basics",
+      "chapterShortName": "Spring",
+      "id": "47c4"
+    },
+    {
+      "courseID": "C007",
+      "sectionID": "s017",
+      "chapterID": "c036",
+      "chapterName": "Spring Dependency Injection",
+      "chapterShortName": "Spring",
+      "id": "0548"
+    },
+    {
+      "courseID": "C007",
+      "sectionID": "s018",
+      "chapterID": "c037",
+      "chapterName": "Spring Boot Configuration",
+      "chapterShortName": "Spring",
+      "id": "5dc7"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s019",
+      "chapterID": "c038",
+      "chapterName": "React Components",
+      "chapterShortName": "React",
+      "id": "187b"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s020",
+      "chapterID": "c008",
+      "chapterName": "React State and Props",
+      "chapterShortName": "React",
+      "id": "bb29"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s021",
+      "chapterID": "c008",
+      "chapterName": "React Lifecycle Methods",
+      "chapterShortName": "React",
+      "id": "e7c6"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s022",
+      "chapterID": "c041",
+      "chapterName": "React Router",
+      "chapterShortName": "React",
+      "id": "ec2c"
+    },
+    {
+      "courseID": "C009",
+      "sectionID": "s023",
+      "chapterID": "c042",
+      "chapterName": "Spring Boot Basics",
+      "chapterShortName": "Spring Boot",
+      "id": "7a33"
+    },
+    {
+      "courseID": "C009",
+      "sectionID": "s023",
+      "chapterID": "c043",
+      "chapterName": "Spring Boot REST API",
+      "chapterShortName": "Spring Boot",
+      "id": "fddd"
+    },
+    {
+      "courseID": "C009",
+      "sectionID": "s024",
+      "chapterID": "c044",
+      "chapterName": "REST API Implementing",
+      "chapterShortName": "Spring Boot",
+      "id": "5a88"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s025",
+      "chapterID": "c045",
+      "chapterName": "Django Models",
+      "chapterShortName": "Django",
+      "id": "89f8"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s026",
+      "chapterID": "c046",
+      "chapterName": "Django Views",
+      "chapterShortName": "Django",
+      "id": "b3c1"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s027",
+      "chapterID": "c047",
+      "chapterName": "Django Forms",
+      "chapterShortName": "Django",
+      "id": "d1aa"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s028",
+      "chapterID": "c048",
+      "chapterName": "Django Authentication",
+      "chapterShortName": "Django",
+      "id": "8434"
+    }
+  ],
+  "topic": [
+    {
+      "courseID": "C001",
+      "sectionID": "s001",
+      "chapterID": "c001",
+      "topicID": "t001",
+      "topicName": "tags",
+      "topicShortName": "tags",
+      "topicType": "lesson",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "7fa6"
+    },
+    {
+      "courseID": "C001",
+      "sectionID": "s002",
+      "chapterID": "c002",
+      "topicID": "t002",
+      "topicName": "attributes",
+      "topicShortName": "attributes",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "df1e"
+    },
+    {
+      "courseID": "C001",
+      "sectionID": "s003",
+      "chapterID": "c003",
+      "topicID": "t003",
+      "topicName": "tags",
+      "topicShortName": "tags",
+      "topicType": "lesson",
+      "topicMediaType": "video",
+      "topicDuration": "25 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "d83a"
+    },
+    {
+      "courseID": "C001",
+      "sectionID": "s004",
+      "chapterID": "c004",
+      "topicID": "t004",
+      "topicName": "attributes",
+      "topicShortName": "attributes",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "110e"
+    },
+    {
+      "courseID": "C002",
+      "sectionID": "s005",
+      "chapterID": "c005",
+      "topicID": "t001",
+      "topicName": "attributes",
+      "topicShortName": "attributes",
+      "topicType": "lesson",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "9fa6"
+    },
+    {
+      "courseID": "C002",
+      "sectionID": "s006",
+      "chapterID": "c006",
+      "topicID": "t002",
+      "topicName": "attributes",
+      "topicShortName": "attributes",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "3993"
+    },
+    {
+      "courseID": "C002",
+      "sectionID": "s007",
+      "chapterID": "c007",
+      "topicID": "t003",
+      "topicName": "attributes",
+      "topicShortName": "attributes",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "ed1a"
+    },
+    {
+      "courseID": "C002",
+      "sectionID": "s008",
+      "chapterID": "c008",
+      "topicID": "t004",
+      "topicName": "attributes",
+      "topicShortName": "attributes",
+      "topicType": "lesson",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "d742"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s005",
+      "chapterID": "c009",
+      "topicID": "t001",
+      "topicName": "Java Script Variables",
+      "topicShortName": "Java Script Variables",
+      "topicType": "lesson",
+      "topicMediaType": "video",
+      "topicDuration": "7.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "d020"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s005",
+      "chapterID": "c010",
+      "topicID": "t002",
+      "topicName": "Java Script DataTypes",
+      "topicShortName": "Java Script DataTypes",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "d06b"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s005",
+      "chapterID": "c011",
+      "topicID": "t003",
+      "topicName": "Java Script Conditionals",
+      "topicShortName": "Java Script Conditionals",
+      "topicType": "lesson",
+      "topicMediaType": "video",
+      "topicDuration": "60.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "8899"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s006",
+      "chapterID": "c012",
+      "topicID": "t004",
+      "topicName": "Java Script Control Structures",
+      "topicShortName": "Java Script Control Structures",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "7956"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s006",
+      "chapterID": "c013",
+      "topicID": "t005",
+      "topicName": "javascript Functions",
+      "topicShortName": "javascript Functions",
+      "topicType": "lesson",
+      "topicMediaType": "video",
+      "topicDuration": "15 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "d985"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s006",
+      "chapterID": "c014",
+      "topicID": "t006",
+      "topicName": "javascript Arrays",
+      "topicShortName": "javascript Arrays",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "306e"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s007",
+      "chapterID": "c015",
+      "topicID": "t007",
+      "topicName": "Java Script Closures",
+      "topicShortName": "Java Script Closures",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "b9e7"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s007",
+      "chapterID": "c016",
+      "topicID": "t008",
+      "topicName": "Asynchronous Programming",
+      "topicShortName": "Asynchronous Programming",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "96e3"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s007",
+      "chapterID": "c017",
+      "topicID": "t009",
+      "topicName": "Prototype and Prototypal Inheritance",
+      "topicShortName": "Prototype and Prototypal Inheritance",
+      "topicType": "lesson",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "759c"
+    },
+    {
+      "courseID": "C003",
+      "sectionID": "s007",
+      "chapterID": "c018",
+      "topicID": "t010",
+      "topicName": "Event Loop and Concurrency Model",
+      "topicShortName": "Event Loop and Concurrency Model",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "1f05"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s008",
+      "chapterID": "c019",
+      "topicID": "t001",
+      "topicName": "Java Variables and Data Types",
+      "topicShortName": "Java Variables and Data Types",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "b58e"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s008",
+      "chapterID": "c020",
+      "topicID": "t002",
+      "topicName": "Java Control Flow",
+      "topicShortName": "Java Control Flow",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "c62b"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s009",
+      "chapterID": "c021",
+      "topicID": "t003",
+      "topicName": "Java Object-Oriented Basics",
+      "topicShortName": "Java Object-Oriented Basics",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "81a8"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s009",
+      "chapterID": "c022",
+      "topicID": "t004",
+      "topicName": "Java Classes and Objects",
+      "topicShortName": "Java Classes and Objects",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "def2"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s010",
+      "chapterID": "c023",
+      "topicID": "t005",
+      "topicName": "Java Exception Handling",
+      "topicShortName": "Java Exception Handling",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "eab7"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s010",
+      "chapterID": "c024",
+      "topicID": "t006",
+      "topicName": "Java Inheritance and Polymorphism",
+      "topicShortName": "Inheritance & Polymorphism",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "cdc2"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s011",
+      "chapterID": "c025",
+      "topicID": "t007",
+      "topicName": "Java Abstration",
+      "topicShortName": "Java Abstration",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "c07a"
+    },
+    {
+      "courseID": "C004",
+      "sectionID": "s011",
+      "chapterID": "c026",
+      "topicID": "t008",
+      "topicName": "Java Multithreding",
+      "topicShortName": "Java Multithreding",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "4183"
+    },
+    {
+      "courseID": "C005",
+      "sectionID": "s012",
+      "chapterID": "c027",
+      "topicName": "SQL Select Statements",
+      "topicShortName": "SQL Select Statements",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "b1a2"
+    },
+    {
+      "courseID": "C005",
+      "sectionID": "s012",
+      "chapterID": "c028",
+      "topicName": "SQL Filtering and Sorting",
+      "topicShortName": "SQL Filtering and Sorting",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "683f"
+    },
+    {
+      "courseID": "C005",
+      "sectionID": "s013",
+      "chapterID": "c029",
+      "topicName": "SQL Joins",
+      "topicShortName": "SQL Joins",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "bc37"
+    },
+    {
+      "courseID": "C005",
+      "sectionID": "s013",
+      "chapterID": "c030",
+      "topicName": "SQL Aggregations and Grouping",
+      "topicShortName": "Aggregations & Grouping",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "63a2"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s014",
+      "chapterID": "c031",
+      "topicName": "Bootstrap Grid System",
+      "topicShortName": "Bootstrap Grid System",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "25cd"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s014",
+      "chapterID": "c032",
+      "topicName": "Bootstrap Typography",
+      "topicShortName": "Bootstrap Typography",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "1b59"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s015",
+      "chapterID": "c033",
+      "topicName": "Bootstrap Forms",
+      "topicShortName": "Bootstrap Forms",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "105a"
+    },
+    {
+      "courseID": "C006",
+      "sectionID": "s016",
+      "chapterID": "c034",
+      "topicName": "Bootstrap Utilities",
+      "topicShortName": "Bootstrap Utilities",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "3988"
+    },
+    {
+      "courseID": "C007",
+      "sectionID": "s017",
+      "chapterID": "c035",
+      "topicName": "Spring MVC Basics",
+      "topicShortName": "Spring MVC Basics",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "68ef"
+    },
+    {
+      "courseID": "C007",
+      "sectionID": "s017",
+      "chapterID": "c036",
+      "topicName": "Spring Dependency Injection",
+      "topicShortName": "Spring Dependency Injection",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "d631"
+    },
+    {
+      "courseID": "C007",
+      "sectionID": "s018",
+      "chapterID": "c037",
+      "topicName": "Spring Boot Configuration",
+      "topicShortName": "Spring Boot Configuration",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "b02d"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s019",
+      "chapterID": "c038",
+      "topicName": "React Components",
+      "topicShortName": "React Components",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "2a4f"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s020",
+      "chapterID": "c008",
+      "topicName": "React State and Props",
+      "topicShortName": "React State and Props",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "9e16"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s021",
+      "chapterID": "c008",
+      "topicName": "React Lifecycle Methods",
+      "topicShortName": "React Lifecycle Methods",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "60b1"
+    },
+    {
+      "courseID": "C008",
+      "sectionID": "s022",
+      "chapterID": "c041",
+      "topicName": "React Router",
+      "topicShortName": "React Router",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "bcae"
+    },
+    {
+      "courseID": "C009",
+      "sectionID": "s023",
+      "chapterID": "c042",
+      "topicName": "Spring Boot Basics",
+      "topicShortName": "Spring Boot",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "beb0"
+    },
+    {
+      "courseID": "C009",
+      "sectionID": "s023",
+      "chapterID": "c043",
+      "topicName": "Spring Boot REST API",
+      "topicShortName": "Spring Boot",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "1436"
+    },
+    {
+      "courseID": "C009",
+      "sectionID": "s024",
+      "chapterID": "c044",
+      "topicName": "REST API Implementing",
+      "topicShortName": "Spring Boot",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "8a1c"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s025",
+      "chapterID": "c045",
+      "topicName": "Django Models",
+      "topicShortName": "Django",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "d00b"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s026",
+      "chapterID": "c046",
+      "topicName": "Django Views",
+      "topicShortName": "Django",
+      "topicType": "lesson",
+      "topicMediaType": "pdf",
+      "topicFree": "yes",
+      "topicMediaURL": "/files/BOYLLAPALLI-SAI-BHARGAV-FlowCV-Resume-202409261.pdf",
+      "id": "7099"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s027",
+      "chapterID": "c047",
+      "topicName": "Django Forms",
+      "topicShortName": "Django",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "02a4"
+    },
+    {
+      "courseID": "C010",
+      "sectionID": "s028",
+      "chapterID": "c048",
+      "topicName": "Django Authentication",
+      "topicShortName": "Django",
+      "topicMediaType": "video",
+      "topicDuration": "10.5 mins",
+      "topicFree": "yes",
+      "topicMediaURL": "/vedios/file_example_MP4_640_3MG.mp4",
+      "id": "a62f"
+    }
+  ],
+  "rdata": [
+    {
+      "id": "030a",
+      "userId": 2,
+      "email": "sai@gmail.com",
+      "phone": "4545454545",
+      "password": "13f3c93e6dac619df95324b60b151261084fb66ce0af6da974f2cd83e478c4b4"
+    }
+  ],
+  "UserCart": [
+    {
+      "id": "cd00",
+      "Org_ID": "ORG003",
+      "CourseID": "C003",
+      "CourseImg": "/images/js.webp",
+      "CourseName": "JS Advanced",
+      "CourseShortName": "JS Beginers",
+      "CourseCaption": "Java Script programming for data analysis.",
+      "CourseCategory": "Funtinaliity",
+      "CourseType": "Online",
+      "CourseRate": "4.5 (456,782 ratings) 2,47,300.",
+      "CourseCurrency": "₹ 5400",
+      "CourseCreatedBy": "Alex Johnson",
+      "CourseLevel": "Expert"
+    }
+  ],
+  "PaymentDetails": []
+}
